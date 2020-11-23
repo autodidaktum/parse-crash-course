@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "parse-sandbox"
+    },
+    "parse-sandbox": {
+      "applicationId": "9MDg3zcO0WnTeNkTj8UFcORIp5sEkwcJsyzmPool"
+    }
+  }
+}
